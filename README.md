@@ -1,10 +1,8 @@
-<h3 align='center'> 2024년도 2학기  KMU CS </h3>
+<h3 align='center'> 2024년도 2학기 KMUCS </h3>
 
 <h1 align='center'> 왕도류최웅 모각코 </h1>
 
-<p align='center'> 소프트웨어학부 20학번으로 구성되어있는 모각코/모각공 모임입니다. </p>
-
-<h3 align='center'> ✏️  </h3>
+<p align='center'> 소프트웨어학부 3학년들로 구성되어있는 알고리즘 부수기 모임입니다. </p>
 
 <div align='center'>
 
@@ -17,11 +15,11 @@
     <tbody>
         <tr>
           <tr>
-            <td align='center'><a href="https://github.com/SudoSzune"><img src="https://avatars.githubusercontent.com/u/66217855?v=4" width="100" height="100"></td>
-            <td align='center'><a href="https://github.com/U-Geon"><img src="https://avatars.githubusercontent.com/u/66215132?v=4" width="100" height="100"></td>
-            <td align='center'><a href="https://github.com/ddugel3"><img src="https://avatars.githubusercontent.com/u/65989284?v=4" width="100" height="100"></td>
-            <td align='center'><a href="https://github.com/govl0407"><img src="https://avatars.githubusercontent.com/u/66248758?v=4" width="100" height="100"></td>
-            <td align='center'><a href="https://github.com/hyeonjin6530"><img src="https://avatars.githubusercontent.com/u/65989344?v=4" width="100" height="100"></td>
+            <td align='center'><a href="https://github.com/SudoSzune"><img src="https://avatars.githubusercontent.com/u/67617332?v=4" width="100" height="100"></td>
+            <td align='center'><a href="https://github.com/U-Geon"><img src="https://avatars.githubusercontent.com/u/65989284?v=4" width="100" height="100"></td>
+            <td align='center'><a href="https://github.com/ddugel3"><img src="https://avatars.githubusercontent.com/u/56158371?v=4" width="100" height="100"></td>
+            <td align='center'><a href="https://github.com/govl0407"><img src="https://avatars.githubusercontent.com/u/62105026?v=4" width="100" height="100"></td>
+            <td align='center'><a href="https://github.com/hyeonjin6530"><img src="https://avatars.githubusercontent.com/u/104902715?v=4" width="100" height="100"></td>
           </tr>
           <tr>
             <td align='center'>20203059</td>
@@ -50,18 +48,20 @@
   - 팀 깃허브에 주차별 공부 내용 정리
   - 일주일 간 공부 내용들 공유
   - 알고리즘 문제 풀이 공유
-- 전원 [코딩 역량 인증제] 참여
+- 전원 겨울학기 ICPC 참여 & Level 2 달성
 
 ## 진행방식
-| |내용 |소요시간|장소|
-|-|----|------|
+| |내용 |소요시간 |
+|----|----|---|
 |1|매주 알고리즘을 선정하여 문제풀이 진행|1시간|북악관 1층 로비|
 |2|각자 접근방식 및 풀이방식 설명 |0.5시간|
 |3|북악관에서 배민으로 저녁 시켜먹기. 밥 먹는데 집중하는 시간. 그 이상은 공부하면서 먹기|0.5시간|
 |4|개인 공부 |1시간|
 
+
+
 ## 장소
-북악관 1층 
+북악관 1층 로비
 
 ## 일정
 
