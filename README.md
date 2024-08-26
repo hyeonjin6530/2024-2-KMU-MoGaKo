@@ -1,0 +1,2 @@
+# 2024-2-KMU-MoGaKo
+2024-2 KMU MoGaKo
