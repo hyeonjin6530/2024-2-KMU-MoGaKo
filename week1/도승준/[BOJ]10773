@@ -1,0 +1,42 @@
+# [[BOJ]10773](https://www.acmicpc.net/problem/10773)
+
+## 풀이
+0이 등장했을 때 가장 최근에 입력된 수를 지워야 하므로, stack을 사용하는 것이 맞다고 판단.
+K 정수를 입력받고, K번을 반복시켜 number가 0이고, 스택이 비어있지 않으면 (즉, 숫자를 비울 수 있으면) 
+스택에서 꺼내고, 아니라면 number를 stack에 넣는다.
+
+
+## 전체 코드
+```C++
+#include <iostream>
+#include <stack>
+using namespace std;
+
+int main() {
+    int K;
+    cin >> K;  
+
+    stack<int> stack;  // 가장 최근에 입력된 수를 지워야 하므로 스택이 좋을 것이라고 판단
+
+    for (int i = 0; i < K; i++) {
+        int number;
+        cin >> number;  // 정수 입력받기
+
+        if (number == 0 && !stack.empty()) {
+            stack.pop();  // number가 0이면 가장 최근에 쓴 수를 지움
+        } else {
+            stack.push(number);  // 0이 아니면 해당 수를 스택에 저장
+        }
+    }
+
+    int sum = 0;
+    while (!stack.empty()) {
+        sum += stack.top();  // 스택에 남은 수들의 합을 계산
+        stack.pop();  // 스택에서 수를 하나씩 제거
+    }
+
+    cout << sum << endl;  // 최종적으로 적어낸 수의 합 출력
+
+    return 0;
+}
+```
