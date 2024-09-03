@@ -7,7 +7,7 @@ K 정수를 입력받고, K번을 반복시켜 number가 0이고, 스택이 비�
 
 
 ## 전체 코드
-```C++
+```
 #include <iostream>
 #include <stack>
 using namespace std;
