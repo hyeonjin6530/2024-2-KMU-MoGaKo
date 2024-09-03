@@ -9,4 +9,4 @@
 - 모각코 진행 방향 상세 회의
   - 주차별 개인 폴더에 `알고리즘 풀이 파일`, `개인 공부 내용 파일` 올리기
 
- 
+![image](https://github.com/user-attachments/assets/c2c4ea65-ffd1-4acf-b327-fb937d53859b)
