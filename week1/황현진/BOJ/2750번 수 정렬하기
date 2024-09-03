@@ -1,0 +1,22 @@
+# [[BOJ]2750](https://www.acmicpc.net/problem/2750)
+
+## 풀이
+입력받은 숫자를 리스트에 저장하고,
+sort()를 사용하여 오름차순으로 정렬한 후 출력
+
+## 전체 코드
+```python
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+numbers = []
+
+for i in range(n):
+    numbers.append(int(input()))
+
+numbers.sort()
+
+for i in numbers:
+    print(i)
+```
