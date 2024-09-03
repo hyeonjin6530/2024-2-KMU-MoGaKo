@@ -1,0 +1,26 @@
+# [[BOJ]10773](https://www.acmicpc.net/problem/10773)
+
+## 풀이
+리스트를 사용하여 풀이
+입력받은 숫자를 리스트에 삽입한다.
+하지만 리스트가 비어있지 않을 때, 0이 입력될 경우 리스트에서 요소를 하나 꺼낸다.
+
+## 전체 코드
+```python
+import sys
+input = sys.stdin.readline
+
+n = int(input())
+numbers = []
+
+for i in range(n):
+    num = int(input())
+    
+    if num == 0 and len(numbers) != 0:
+            numbers.pop()
+    else:
+        numbers.append(num)
+
+print(sum(numbers))
+print(ans)
+```
