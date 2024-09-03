@@ -26,7 +26,7 @@
             <td align='center'>20203103</td>
             <td align='center'>20203150</td>
             <td align='center'>20203152</td>
-            <td align='center'>20203158</td>
+            <td align='center'>20223158</td>
           </tr>
           <tr>
             <td align='center'>도승준</td>
